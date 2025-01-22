@@ -13,6 +13,7 @@
 <body>
 
     <h2>Report for {{ $month }} / {{ $year }}</h2>
+    <p>fkjgjgf</P>
 
 </body>
 </html>
